@@ -3,3 +3,7 @@ obj_name            obj_code                description
 заява               statement               Структура, що описує заяву вступника
 ім'я студента       first_name              ім'я студента
 назва університету  university              Повна назва університету
+first_name          first_name              имя студента 
+second_name         second_name             фамилия студента
+mark                mark                    оценка студента
+subj                subj                    предмет 
